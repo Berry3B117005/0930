@@ -1,2 +1,2 @@
-# 0930
+# BMIcalc
  計算Bmi
